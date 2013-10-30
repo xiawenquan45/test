@@ -15,7 +15,6 @@ public class MainActivity extends Activity {
 
     private ResultsAdapter mAdapter;
 
-    @SuppressWarnings("unchecked")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
